@@ -36,41 +36,41 @@
   
   1. Business Problem Understanding:
   
-    Defined a regression problem to estimate medical charges using client demographics.
+      Defined a regression problem to estimate medical charges using client demographics.
   
   2. Data Understanding
   
-    Loaded and explored the dataset.
-    Visualized relationships using scatter plots and correlation matrix.
+      Loaded and explored the dataset.
+      Visualized relationships using scatter plots and correlation matrix.
   
   3. Data Preprocessing
   
-    Handled categorical variables using Feature-Mapping encoding.
-  
-    Split the data into training and testing sets.
+      Handled categorical variables using Feature-Mapping encoding.
+    
+      Split the data into training and testing sets.
   
   4. Modeling
   
-    Used Linear Regression from sklearn.linear_model.
-  
-    Fitted the model using the training dataset.
+      Used Linear Regression from sklearn.linear_model.
     
-    Interpreted model coefficients to identify impactful features.
+      Fitted the model using the training dataset.
+      
+      Interpreted model coefficients to identify impactful features.
   
   5. Evaluation
   
-    Assessed model performance using:
-  
-    R² Score (Train & Test)
-  
-    Cross-Validation Score
-  
-    Visualized:
-  
-    Distribution of residuals
+      Assessed model performance using:
     
+      R² Score (Train & Test)
+    
+      Cross-Validation Score
+    
+      Visualized:
+    
+      Distribution of residuals
+      
   6. Final Model Summary
   
-    The final model captures trends effectively and shows good generalization across train/test splits.
-  
-    Can be used to estimate charges for new customers based on their personal details.
+      The final model captures trends effectively and shows good generalization across train/test splits.
+    
+      Can be used to estimate charges for new customers based on their personal details.
