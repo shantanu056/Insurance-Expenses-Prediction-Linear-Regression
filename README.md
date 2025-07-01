@@ -1,6 +1,6 @@
 * Insurance Expense Prediction - Linear Regression
 
-This project applies Linear Regression to analyze and predict individual medical insurance expenses based on demographic and lifestyle features. The goal is to model the relationship between personal characteristics (such as age, BMI, smoking status, etc.) and insurance charges, and accurately predict future expenses.
+  This project applies Linear Regression to analyze and predict individual medical insurance expenses based on demographic and lifestyle features. The goal is to model the relationship between personal characteristics (such as age, BMI, smoking status, etc.) and insurance charges, and accurately predict future expenses.
 
 * Problem Statement
 
